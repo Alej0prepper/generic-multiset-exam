@@ -1,0 +1,24 @@
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\multiset.deps.json
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\multiset.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\ref\multiset.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\multiset.pdb
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.AssemblyInfo.cs
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\ref\multiset.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.pdb
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\multiset.deps.json
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\multiset.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\ref\multiset.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\bin\Debug\net6.0\multiset.pdb
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.AssemblyInfo.cs
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\ref\multiset.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\multiset\obj\Debug\net6.0\multiset.pdb

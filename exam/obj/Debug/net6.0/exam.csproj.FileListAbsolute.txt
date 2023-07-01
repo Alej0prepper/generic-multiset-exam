@@ -1,0 +1,36 @@
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.AssemblyInfo.cs
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.exe
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.deps.json
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.runtimeconfig.json
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\ref\exam.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.pdb
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\multiset.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\multiset.pdb
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.csproj.CopyComplete
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\ref\exam.dll
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.pdb
+C:\Users\aleja\Desktop\Desktop\!!!Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.genruntimeconfig.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.exe
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.deps.json
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.runtimeconfig.json
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\ref\exam.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\exam.pdb
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\multiset.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\bin\Debug\net6.0\multiset.pdb
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.AssemblyInfo.cs
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.csproj.CopyComplete
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\ref\exam.dll
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.pdb
+C:\Users\aleja\Desktop\Desktop\A Estudio segundo semestre 2do año\Pro\mundial arboles\exam(1)\exam\obj\Debug\net6.0\exam.genruntimeconfig.cache
